@@ -1,16 +1,20 @@
 Senin
 - Data Warehouse
 - Pemodelan dan Simulasi
+- praktikum Mobile Programming
 
 Selasa
 - Mobile Programming
 
 Rabu
 - Sistem Pendukung Keputusan
+- Praktikum Sistem Embedded dan Mikrokontroler
 
 Kamis
 - Sistem Embedded dan Mikrokontroler
 - Interaksi Manusia dan Komputer
+- Praktikum Grafika Komputer
 
 Jum'at
 - Grafika Komputer
+- Workshop
