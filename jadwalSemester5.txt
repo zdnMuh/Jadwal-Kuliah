@@ -1,0 +1,16 @@
+Senin
+- Data Warehouse
+- Pemodelan dan Simulasi
+
+Selasa
+- Mobile Programming
+
+Rabu
+- Sistem Pendukung Keputusan
+
+Kamis
+- Sistem Embedded dan Mikrokontroler
+- Interaksi Manusia dan Komputer
+
+Jum'at
+- Grafika Komputer
